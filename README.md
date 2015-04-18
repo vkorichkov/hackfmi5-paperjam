@@ -25,6 +25,6 @@ HTML / CSS / JavaScript , Python, Django, Databases - SQL или NoSQL
 Помощни материали
 =================
 
-[How to use docker on windows](http://blog.tutum.co/2014/11/05/how-to-use-docker-on-windows/ "How to use docker on windows")
-[Docker Cheat Sheet](https://github.com/vkorichkov/docker-cheat-sheet "Docker Cheat Sheet")
-[Testing with Docker](https://github.com/realpython/django-docker-tests "Testing with Docker")
+1. [How to use docker on windows](http://blog.tutum.co/2014/11/05/how-to-use-docker-on-windows/ "How to use docker on windows")
+2. [Docker Cheat Sheet](https://github.com/vkorichkov/docker-cheat-sheet "Docker Cheat Sheet")
+3. [Testing with Docker](https://github.com/realpython/django-docker-tests "Testing with Docker")
