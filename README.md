@@ -34,3 +34,4 @@ HTML / CSS / JavaScript , Python, Django, Databases - SQL или NoSQL
 2. [Docker Cheat Sheet](https://github.com/vkorichkov/docker-cheat-sheet "Docker Cheat Sheet")
 3. [Testing with Docker](https://github.com/realpython/django-docker-tests "Testing with Docker")
 4. [Sublime Text 2/3 Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview "Sublime Text 2/3 Markdown Preview")
+5. [MAPS.ME](https://github.com/mapswithme/api-android.git "MAPS.ME - Android")
